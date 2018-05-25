@@ -15,6 +15,18 @@ cnpm install
 ```shell
 ts-node email.ts
 ```
+* 生成20条名字json数据
+```shell
+ts-node name.ts
+```
+* 生成20条firstNamejson数据
+```shell
+ts-node firstName.ts
+```
+* 生成20条lastNamejson数据
+```shell
+ts-node lastName.ts
+```
 
 ## TODOs
 [] cli
